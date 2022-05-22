@@ -4,13 +4,12 @@ const styles = {
   background: {
     backgroundColor:"#afbfa6",
     display:"flex",
-    flexwrap: "wrap",
     justifyContent:"center",
     alignItems: "center",
   },
 
   item: {
-    margin:"10px"
+    margin:"0px"
   },
 
   title: {
