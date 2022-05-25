@@ -54,16 +54,13 @@ export default function Contact() {
                     <li>
                       <div style={styles.links}>
                         <div>
-                        <img src={git} style={styles.imgs} alt=""></img>
-                        <a target="_blank" rel="noreferrer" href="https://github.com/LILWill13" style={styles.tags} >GitHub</a>
+                          <a target="_blank" rel="noreferrer" href="https://github.com/LILWill13" style={styles.link}> <img src={git} style={styles.tags} alt=""></img></a>
                         </div>
                         <div>
-                        <img src={twit} style={styles.imgs} alt=""></img>
-                        <a target="_blank" rel="noreferrer" href="https://twitter.com/NoahW_Gaston" style={styles.tags}>Twitter</a>
+                          <a target="_blank" rel="noreferrer" href="https://twitter.com/NoahW_Gaston" style={styles.link}><img src={twit} style={styles.tags} alt=""></img></a>
                         </div>
                         <div>
-                        <img src={link} style={styles.imgs} alt=""></img>
-                        <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/noah-gaston-54a30922b/" style={styles.tags}>Linkedin</a>
+                          <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/noah-gaston-54a30922b/" style={styles.link}><img src={link} style={styles.tags} alt=""></img></a>
                         </div>
                       </div>
                     </li>

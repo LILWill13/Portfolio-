@@ -6,7 +6,7 @@ import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 
 export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('Projects');
+  const [currentPage, setCurrentPage] = useState('Contact');
 
   const renderPage = () => {
     if (currentPage === 'Resume') {
