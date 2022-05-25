@@ -1,5 +1,9 @@
 import React from 'react';
 
+import git from "../imgs/git.png"
+import link from "../imgs/link.png"
+import twit from "../imgs/twit.jpeg"
+
 const styles = {
   outterBody:{
     alignItems: 'center',
@@ -50,13 +54,15 @@ export default function Contact() {
                     <li>
                       <div style={styles.links}>
                         <div>
-                        <a target="_blank" rel="noreferrer" href="https://github.com/
-                        LILWill13" style={styles.tags} >GitHub</a>
+                        <img src={git} style={styles.imgs} alt=""></img>
+                        <a target="_blank" rel="noreferrer" href="https://github.com/LILWill13" style={styles.tags} >GitHub</a>
                         </div>
                         <div>
+                        <img src={twit} style={styles.imgs} alt=""></img>
                         <a target="_blank" rel="noreferrer" href="https://twitter.com/NoahW_Gaston" style={styles.tags}>Twitter</a>
                         </div>
                         <div>
+                        <img src={link} style={styles.imgs} alt=""></img>
                         <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/noah-gaston-54a30922b/" style={styles.tags}>Linkedin</a>
                         </div>
                       </div>
