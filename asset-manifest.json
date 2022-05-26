@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/LILWill13/Portfolio-/static/css/main.2537ff95.css",
+    "main.js": "/LILWill13/Portfolio-/static/js/main.b694d932.js",
+    "static/media/1.jpg": "/LILWill13/Portfolio-/static/media/1.255f065900548a966ee0.jpg",
+    "static/media/5.jpg": "/LILWill13/Portfolio-/static/media/5.4628438e33ce7b03faee.jpg",
+    "static/media/3.jpg": "/LILWill13/Portfolio-/static/media/3.1afa6109520157b82576.jpg",
+    "static/media/2.jpg": "/LILWill13/Portfolio-/static/media/2.b1e1519350e8e62658d3.jpg",
+    "static/media/4.jpg": "/LILWill13/Portfolio-/static/media/4.6b9c415e69acfbba62ab.jpg",
+    "static/media/link.png": "/LILWill13/Portfolio-/static/media/link.683f03547e7e72933354.png",
+    "static/media/twit.jpeg": "/LILWill13/Portfolio-/static/media/twit.0ed7e4d895e0b8c8f33f.jpeg",
+    "static/media/git.png": "/LILWill13/Portfolio-/static/media/git.1e61d3b363eea7dd0958.png",
+    "index.html": "/LILWill13/Portfolio-/index.html",
+    "main.2537ff95.css.map": "/LILWill13/Portfolio-/static/css/main.2537ff95.css.map",
+    "main.b694d932.js.map": "/LILWill13/Portfolio-/static/js/main.b694d932.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2537ff95.css",
+    "static/js/main.b694d932.js"
+  ]
+}
